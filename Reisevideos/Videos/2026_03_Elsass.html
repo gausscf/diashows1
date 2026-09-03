@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Reisevideos WebApp">
+<title>Elsaß Frühjahr 2026</title>
+
+<link rel="stylesheet" href="../style.css">
+<link rel="manifest" href="../manifest.json">
+
+<link rel="apple-touch-icon" sizes="180x180" href="../icon-180.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../icon-152.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../icon-120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../icon-76.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png">
+
+</head>
+<body>
+
+<div class="header-bar video-page">
+  <a href="../index.html">← Übersicht</a>
+  <div class="title">Elsaß Frühjahr 2026</div>
+  <noscript>
+    <span style="color: #cc0000; font-size: 0.7em; font-weight: bold; border: 1px solid #cc0000; padding: 2px 5px; border-radius: 4px; margin-left: 5px; white-space: nowrap;">
+      ⚠️ Java Script inaktiv: Steuerung/Ton mglw. limitiert
+    </span>
+  </noscript>
+  
+  <a class="spa-link" href="2026_03_Elsass_thumbs.html" title="Galerie oben">🖼</a><a class="spa-link" href="2026_03_Elsass_thumbs.html" title="Galerie Position wie Video">Bilder</a><a class="spa-link" href="2026_03_Elsass_kapitel.html">Kapitel</a>
+  <a href="../index.html#2026_03_Elsass">↺ Zurück zum Video</a>
+</div>
+
+<div id="video-wrapper">
+    <video id="player" controls playsinline loop poster="2026_03_Elsass.jpg" data-timeline='{"0.000":"000_DgVqT_iPh16e_5283","5.000":"ClStG_iPh16e_5264","10.000":"ClSuD_iPh16e_5265","15.000":"CnSaG_iPh16e_5267","20.000":"CqFzC_iPad11_4693","25.000":"CrXpX_iPad11_4696","30.000":"CsKvP_iPad11_4697","35.000":"CwSdR_iPh16e_5268","40.000":"CwSeN_iPh16e_5269","45.000":"DfGjP_iPh16e_0086","78.367":"DfGnB_iPh16e_0087","105.375":"DfHxC_iPh16e_5271","110.375":"DfIsZ_iPh16e_5274","115.375":"DfIuF_iPh16e_5275","120.375":"DfJfO_iPh16e_5276","125.375":"DgVmZ_iPh16e_5281","130.375":"DgVoJ_iPh16e_5282","135.375":"DgVqT_iPh16e_5283","140.375":"DhFsY_iPh16e_5284","145.375":"DhHgN_iPh16e_5286","150.375":"DhHvY_iPh16e_5287","155.375":"DkCsQ_iPh16e_5288","160.375":"DlJvV_iPh16e_5294","165.375":"DlJzE_iPh16e_5296"}' data-timeline-chapters='{"0.000":"000_DgVqT_iPh16e_5283","15.000":"CnSaG_iPh16e_5267","25.000":"CrXpX_iPad11_4696","35.000":"CwSdR_iPh16e_5268","45.000":"DfGjP_iPh16e_0086","125.375":"DgVmZ_iPh16e_5281","160.375":"DlJvV_iPh16e_5294"}'>
+        <source src="2026_03_Elsass.mp4" type="video/mp4"><track id="native-track" kind="chapters" src="2026_03_Elsass.vtt" srclang="de" label="Kapitel" default>
+    </video>
+
+    <button id="toggle-chapters" title="Kapitel anzeigen (verschiebbar)">
+        <svg viewBox="0 0 24 24"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/></svg>
+    </button>
+
+    <nav id="chapter-nav" class="hidden"></nav>
+</div>
+
+<div id="thumbs-overlay">
+    <button id="close-overlay" title="Galerie schließen">&times;</button>
+    <div id="thumbs-content-target"></div>
+</div>
+
+<script src="../video.js"></script>
+
+</body>
+</html>
