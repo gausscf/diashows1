@@ -1,109 +1,109 @@
 ###Input_File	Marker	keep_Audio	Start_formatiert	Ende_formatiert	Start_(sek.)	Ende_(sek.)	Länge_(sek.)	Beschreibung	Ort	Lokation	DateTime	AddToStart	1
-000_IdLjH_iPh16e_5387.jpg		no	0:00	0:05	0	5	5		Hannover	Herrenhausen	21.4.26 (Di) 11:22		
-GgQkW_iPh16e_5312.jpg		no	0:05	0:10	5	10	5		Gerolfingen	Hesselberg	11.4.26 (Sa) 13:06		
-GgRcH_iPh16e_5314.jpg		no	0:10	0:15	10	15	5		Gerolfingen	Hesselberg	11.4.26 (Sa) 13:13		
-GgRfI_iPh16e_5315.jpg		no	0:15	0:20	15	20	5		Gerolfingen	Hesselberg	11.4.26 (Sa) 13:14		
-GgVsZ_iPh16e_5319.jpg		no	0:20	0:25	20	25	5		Gerolfingen	Hesselberg	11.4.26 (Sa) 14:05		
-GgVwB_iPh16e_5320.jpg		no	0:25	0:30	25	30	5		Gerolfingen	Hesselberg	11.4.26 (Sa) 14:07		
-GhMgZ_iPh16e_5322.jpg	x	no	0:30	0:35	30	35	5		Oberscheinfeld		11.4.26 (Sa) 17:12		
-GhMkW_iPh16e_5323.jpg		no	0:35	0:40	35	40	5		Oberscheinfeld		11.4.26 (Sa) 17:13		
-GiBdE_iPh16e_5325.jpg		no	0:40	0:45	40	45	5		Oberscheinfeld		11.4.26 (Sa) 19:59		
-GkUsN_iPh16e_5326.jpg		no	0:45	0:50	45	50	5		Oberscheinfeld		12.4.26 (So) 9:26		
-GmVjD_iPh7_4307.jpg	x	no	0:50	0:55	50	55	5		Heldburg		12.4.26 (So) 19:19		
+000_IdLjH_iPh16e_5387.jpg		no	0:00	0:05	0	5	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:22		
+GgQkW_iPh16e_5312.jpg		no	0:05	0:10	5	10	5	Spaziergang um den Hesselberg bei Wassertrüdingen	Gerolfingen	Hesselberg	11.4.26 (Sa) 13:06		
+GgRcH_iPh16e_5314.jpg		no	0:10	0:15	10	15	5	Spaziergang um den Hesselberg bei Wassertrüdingen	Gerolfingen	Hesselberg	11.4.26 (Sa) 13:13		
+GgRfI_iPh16e_5315.jpg		no	0:15	0:20	15	20	5	Spaziergang um den Hesselberg bei Wassertrüdingen	Gerolfingen	Hesselberg	11.4.26 (Sa) 13:14		
+GgVsZ_iPh16e_5319.jpg		no	0:20	0:25	20	25	5	Spaziergang um den Hesselberg bei Wassertrüdingen	Gerolfingen	Hesselberg	11.4.26 (Sa) 14:05		
+GgVwB_iPh16e_5320.jpg		no	0:25	0:30	25	30	5	Spaziergang um den Hesselberg bei Wassertrüdingen	Gerolfingen	Hesselberg	11.4.26 (Sa) 14:07		
+GhMgZ_iPh16e_5322.jpg	x	no	0:30	0:35	30	35	5	Spaziergang in Oberscheinfeld südlich von Geiselwind	Oberscheinfeld		11.4.26 (Sa) 17:12		
+GhMkW_iPh16e_5323.jpg		no	0:35	0:40	35	40	5	Spaziergang in Oberscheinfeld südlich von Geiselwind	Oberscheinfeld		11.4.26 (Sa) 17:13		
+GiBdE_iPh16e_5325.jpg		no	0:40	0:45	40	45	5	Spaziergang in Oberscheinfeld südlich von Geiselwind	Oberscheinfeld		11.4.26 (Sa) 19:59		
+GkUsN_iPh16e_5326.jpg		no	0:45	0:50	45	50	5	Spaziergang in Oberscheinfeld südlich von Geiselwind	Oberscheinfeld		12.4.26 (So) 9:26		
+GmVjD_iPh7_4307.jpg	x	no	0:50	0:55	50	55	5	In Heldburg westlich von Coburg	Heldburg		12.4.26 (So) 19:19		
 GpPgL_iPh16e_5328.jpg		no	0:55	1:00	55	60	5	In Heldburg westlich von Coburg	Heldburg		13.4.26 (Mo) 8:49		
 GpWmH_iPh16e_5329.jpg		no	1:00	1:05	60	65	5	Bei Eicha/Römhild südwestlich von Hildburghausen	Römhild	Eicha	13.4.26 (Mo) 10:10		
-GqHwE_iPh16e_5330.jpg	x	no	1:05	1:10	65	70	5		Römhild	Gleichberge	13.4.26 (Mo) 12:18		
-GqKtA_iPh16e_5335.jpg		no	1:10	1:15	70	75	5		Römhild	Gleichberge	13.4.26 (Mo) 12:51		
-GqLfW_iPh16e_5337.jpg		no	1:15	1:20	75	80	5		Römhild	Gleichberge	13.4.26 (Mo) 12:56		
-GqLqY_iPh16e_5339.jpg		no	1:20	1:25	80	85	5		Römhild	Gleichberge	13.4.26 (Mo) 13:01		
-GqLyC_iPh16e_5341.jpg		no	1:25	1:30	85	90	5		Römhild	Gleichberge	13.4.26 (Mo) 13:04		
-GqMuI_iPh16e_5345.jpg		no	1:30	1:35	90	95	5		Römhild	Gleichberge	13.4.26 (Mo) 13:14		
-GrBqJ_iPh16e_5346.jpg		no	1:35	1:40	95	100	5		Vachdorf		13.4.26 (Mo) 16:01		
+GqHwE_iPh16e_5330.jpg	x	no	1:05	1:10	65	70	5	Am großen Gleichberg südwestlich von Hildburghausen	Römhild	Gleichberge	13.4.26 (Mo) 12:18		
+GqKtA_iPh16e_5335.jpg		no	1:10	1:15	70	75	5	Am großen Gleichberg südwestlich von Hildburghausen	Römhild	Gleichberge	13.4.26 (Mo) 12:51		
+GqLfW_iPh16e_5337.jpg		no	1:15	1:20	75	80	5	Am großen Gleichberg südwestlich von Hildburghausen	Römhild	Gleichberge	13.4.26 (Mo) 12:56		
+GqLqY_iPh16e_5339.jpg		no	1:20	1:25	80	85	5	Am großen Gleichberg südwestlich von Hildburghausen	Römhild	Gleichberge	13.4.26 (Mo) 13:01		
+GqLyC_iPh16e_5341.jpg		no	1:25	1:30	85	90	5	Am großen Gleichberg südwestlich von Hildburghausen	Römhild	Gleichberge	13.4.26 (Mo) 13:04		
+GqMuI_iPh16e_5345.jpg		no	1:30	1:35	90	95	5	Am großen Gleichberg südwestlich von Hildburghausen	Römhild	Gleichberge	13.4.26 (Mo) 13:14		
+GrBqJ_iPh16e_5346.jpg		no	1:35	1:40	95	100	5	Im Vachdorf an der Werra südöstlich von Meiningen	Vachdorf		13.4.26 (Mo) 16:01		
 GvOgE_iPh16e_5347.jpg	x	no	1:40	1:45	100	105	5	Spaziergang an der Werra in Walldorf bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 13:55		
-GvOqJ_iPh16e_0089.mp4		yes	1:45	2:02	105	122	17			0000:00:00 00:00:00			
-GvOrY_iPh16e_5350.jpg		no	2:02	2:07	122	127	5		Meiningen	Walldorf	14.4.26 (Di) 14:00		
+GvOqJ_iPh16e_0089.mp4		yes	1:45	2:02	105	122	17	Spaziergang an der Werra in Walldorf bei Meiningen		0000:00:00 00:00:00			
+GvOrY_iPh16e_5350.jpg		no	2:02	2:07	122	127	5	Spaziergang an der Werra in Walldorf bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 14:00		
 GvOzL_iPh16e_5352.jpg		no	2:07	2:12	127	132	5	Spaziergang an der Werra in Walldorf bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 14:03		
-GvScZ_iPh16e_5354.jpg		no	2:12	2:17	132	137	5		Meiningen	Walldorf	14.4.26 (Di) 14:39		
+GvScZ_iPh16e_5354.jpg		no	2:12	2:17	132	137	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 14:39		
 GvTiU_M50_0142.jpg		no	2:17	2:22	137	142	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 14:52		
 GvTnQ_M50_0144.jpg	x	no	2:22	2:27	142	147	5	Die Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 14:55		
 GvTtW_M50_0149.jpg		no	2:27	2:32	147	152	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 14:57		
 GvTvH_M50_0151.jpg		no	2:32	2:37	152	157	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 14:58		
 GvUaA_M50_0155.jpg		no	2:37	2:42	157	162	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:00		
 GvUcN_M50_0156.jpg		no	2:42	2:47	162	167	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:01		
-GvUeB_iPh16e_0090.mp4		yes	2:47	3:11	167	190.625	23.625			0000:00:00 00:00:00			
-GvUlQ_M50_0159.jpg		no	3:11	3:16	190.625	195.625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:05		
-GvUoE_M50_0160.jpg		no	3:16	3:21	195.625	200.625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:06		
-GvUqO_M50_0161.jpg		no	3:21	3:26	200.625	205.625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:07		
-GvUrY_M50_0162.jpg		no	3:26	3:31	205.625	210.625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:08		
-GvUuU_M50_0163.jpg		no	3:31	3:36	210.625	215.625	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:09		
-GvUvH_M50_0164.jpg		no	3:36	3:41	215.625	220.625	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:09		
-GvUxQ_M50_0167.jpg		no	3:41	3:46	220.625	225.625	5	Die Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:10		
-GvUzX_M50_0168.jpg		no	3:46	3:51	225.625	230.625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:11		
-GvViE_M50_0170.jpg		no	3:51	3:56	230.625	235.625	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:15		
-GzIaL_iPh16e_5357.jpg		no	3:56	4:01	235.625	240.625	5		Erbenhausen	Reichenhausen	15.4.26 (Mi) 8:17		
-GzIlU_iPh16e_5358.jpg		no	4:01	4:06	240.625	245.625	5		Erbenhausen	Reichenhausen	15.4.26 (Mi) 8:22		
-HbPdK_iPh16e_5360.jpg	x	no	4:06	4:11	245.625	250.625	5		Frankenheim	Birx	15.4.26 (Mi) 19:23		
-HbPgE_iPh16e_5362.jpg		no	4:11	4:16	250.625	255.625	5		Frankenheim	Birx	15.4.26 (Mi) 19:24		
-HbPyX_iPh16e_0093.mp4		yes	4:16	4:33	255.625	273.417	17.792			0000:00:00 00:00:00			
-HbQaL_iPh16e_5364.jpg		no	4:33	4:38	273.417	278.417	5		Frankenheim	Birx	15.4.26 (Mi) 19:33		
-HeJoC_iPh16e_5366.jpg		no	4:38	4:43	278.417	283.417	5		Frankenheim	Birx	16.4.26 (Do) 8:58		
-HjUcR_iPh16e_5374.jpg	x	no	4:43	4:48	283.417	288.417	5		Rotenburg an der Fulda	Erkshausen	17.4.26 (Fr) 11:22		
-HjUdT_iPh16e_0094.mp4		yes	4:48	5:04	288.417	304.292	15.875			0000:00:00 00:00:00			
-HjUgS_iPh16e_5375.jpg		no	5:04	5:09	304.292	309.292	5		Rotenburg an der Fulda	Erkshausen	17.4.26 (Fr) 11:24		
-HkArI_iPh16e_5377.jpg		no	5:09	5:14	309.292	314.292	5		Waldkappel	Stolzhausen	17.4.26 (Fr) 12:36		
-HkCxP_iPh16e_5378.jpg		no	5:14	5:19	314.292	319.292	5	Bei Rotenburg an der Fulda nördlich von Bebra	Rotenburg an der Fulda	Dankerode	17.4.26 (Fr) 13:01		
-HkFvB_iPh16e_5380.jpg		no	5:19	5:24	319.292	324.292	5	Bei Waldkappel zwischen Berbra und Eschwege	Waldkappel	Stolzhausen	17.4.26 (Fr) 13:34		
-IdIiU_M50_0172.jpg	x	no	5:24	5:29	324.292	329.292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:48		
-IdIxF_M50_0181.jpg		no	5:29	5:34	329.292	334.292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:54		
-IdJcW_M50_0182.jpg		no	5:34	5:39	334.292	339.292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:57		
-IdJhB_M50_0187.jpg		no	5:39	5:44	339.292	344.292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:59		
-IdJhV_M50_0189.jpg		no	5:44	5:49	344.292	349.292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:59		
-IdJrE_iPh16e_5385.jpg		no	5:49	5:54	349.292	354.292	5		Hannover	Herrenhausen	21.4.26 (Di) 11:03		
-IdKmC_M50_0203.jpg		no	5:54	5:59	354.292	359.292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:12		
-IdKpF_M50_0206.jpg		no	5:59	6:04	359.292	364.292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:14		
-IdKuX_iPh16e_5386.jpg		no	6:04	6:09	364.292	369.292	5		Hannover	Herrenhausen	21.4.26 (Di) 11:16		
-IdKvY_iPh16e_0096.mp4		yes	6:09	6:18	369.292	377.833	8.542			0000:00:00 00:00:00			
-IdKzT_M50_0209.jpg		no	6:18	6:23	377.833	382.833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:18		
-IdLbJ_M50_0210.jpg		no	6:23	6:28	382.833	387.833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:19		
-IdLeX_M50_0212.jpg		no	6:28	6:33	387.833	392.833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:20		
-IdLjH_iPh16e_5387.jpg		no	6:33	6:38	392.833	397.833	5		Hannover	Herrenhausen	21.4.26 (Di) 11:22		
-IdLkQ_M50_0219.jpg		no	6:38	6:43	397.833	402.833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:23		
-IdLvY_M50_0224.jpg		no	6:43	6:48	402.833	407.833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:28		
-IdMbN_iPh16e_0098.mp4		yes	6:48	7:01	407.833	420.833	13			0000:00:00 00:00:00			
-IdMlF_M50_0233.jpg		no	7:01	7:06	420.833	425.833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:34		
-IdNcH_M50_0240.jpg		no	7:06	7:11	425.833	430.833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:42		
-IhVgM_iPh16e_5388.jpg	x	no	7:11	7:16	430.833	435.833	5		Rinteln	Goldbeck	22.4.26 (Mi) 8:45		
-IhXxQ_iPh16e_5390.jpg		no	7:16	7:21	435.833	440.833	5	Spaziergang in Goldbeck westlich von Hameln	Rinteln	Goldbeck	22.4.26 (Mi) 9:15		
-ImXlM_M50_0245.jpg	x	no	7:21	7:26	440.833	445.833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:35		
-ImXqO_M50_0248.jpg		no	7:26	7:31	445.833	450.833	5	Am Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:37		
-ImXvZ_M50_0249.jpg		no	7:31	7:36	450.833	455.833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:39		
-ImXxV_M50_0250.jpg		no	7:36	7:41	455.833	460.833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:40		
-ImXyR_M50_0251.jpg		no	7:41	7:46	460.833	465.833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:41		
-ImXzI_M50_0252.jpg		no	7:46	7:51	465.833	470.833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:41		
-InFbZ_iPh16e_5394.jpg	x	no	7:51	7:56	470.833	475.833	5		Detmold	Hiddesen	23.4.26 (Do) 11:01		
-InFkT_iPh16e_5397.jpg		no	7:56	8:01	475.833	480.833	5		Detmold	Hiddesen	23.4.26 (Do) 11:05		
-InFmC_iPh16e_5399.jpg		no	8:01	8:06	480.833	485.833	5		Detmold	Hiddesen	23.4.26 (Do) 11:05		
-InFtY_iPh16e_0100.mp4		yes	8:06	8:14	485.833	494.207	8.374			0000:00:00 00:00:00			
-IoYcF_iPh16e_0108.mp4		yes	8:14	8:31	494.207	510.541	16.333			0000:00:00 00:00:00			
-JbDzV_iPh16e_5406.jpg	x	no	8:31	8:36	510.541	515.541	5		Schmallenberg	Jagdhaus	26.4.26 (So) 7:10		
-JbFuN_iPh16e_0110.mp4		yes	8:36	8:51	515.541	531.157	15.617			0000:00:00 00:00:00			
-JbFyC_iPh16e_5408.jpg		no	8:51	8:56	531.157	536.157	5		Schmallenberg	Jagdhaus	26.4.26 (So) 7:31		
-JbGgS_iPh16e_5410.jpg		no	8:56	9:01	536.157	541.157	5		Schmallenberg	Jagdhaus	26.4.26 (So) 7:35		
-JdEvH_iPh16e_5414.jpg		no	9:01	9:06	541.157	546.157	5		Hallenberg		26.4.26 (So) 17:05		
-JdEzV_iPh16e_5417.jpg		no	9:06	9:11	546.157	551.157	5		Hallenberg		26.4.26 (So) 17:07		
-JgLeK_M50_0260.jpg	x	no	9:11	9:16	551.157	556.157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 8:55		
-JgLiS_M50_0266.jpg		no	9:16	9:21	556.157	561.157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 8:57		
-JgLpT_M50_0278.jpg		no	9:21	9:26	561.157	566.157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:00		
-JgLtK_M50_0291.jpg		no	9:26	9:31	566.157	571.157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:02		
-JgLtQ_M50_0293.jpg		no	9:31	9:36	571.157	576.157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:02		
-JgLvG_M50_0295.jpg		no	9:36	9:41	576.157	581.157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:03		
-JgVlV_iPh16e_5421.jpg	x	no	9:41	9:46	581.157	586.157	5		Winterberg	Kahler Asten	27.4.26 (Mo) 10:51		
-JgVwE_iPh16e_5422.jpg		no	9:46	9:51	586.157	591.157	5		Winterberg	Kahler Asten	27.4.26 (Mo) 10:56		
-JgWnA_iPh16e_8240.jpg		no	9:51	9:56	591.157	596.157	5		Winterberg	Kahler Asten	27.4.26 (Mo) 11:03		
-JgWtE_iPh16e_5426.jpg		no	9:56	10:01	596.157	601.157	5		Winterberg	Kahler Asten	27.4.26 (Mo) 11:06		
-KjUzY_iPh16e_0113.mp4		yes	10:01	10:10	601.157	610.341	9.183			0000:00:00 00:00:00			
-KjVeV_iPh16e_5430.jpg	x	no	10:10	10:15	610.341	615.341	5		Oberthulba		2.5.26 (Sa) 8:23		
-KjVlO_iPh16e_5431.jpg		no	10:15	10:20	615.341	620.341	5		Oberthulba		2.5.26 (Sa) 8:26		
-KoSqD_iPh16e_5432.jpg	x	no	10:20	10:25	620.341	625.341	5		Sammenheim	Gelber Berg	3.5.26 (So) 8:19		
-KoStO_iPh16e_0114.mp4		yes	10:25	10:49	625.341	648.991	23.65			0000:00:00 00:00:00			
-KoSwT_iPh16e_5433.jpg		no	10:49	10:54	648.991	653.991	5		Sammenheim	Gelber Berg	3.5.26 (So) 8:22		
+GvUeB_iPh16e_0090.mp4		yes	2:47	3:11	167	190625	23625	In der Kirchenburg in Walldorf an der Werra bei Meiningen		0000:00:00 00:00:00			
+GvUlQ_M50_0159.jpg		no	3:11	3:16	190625	195625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:05		
+GvUoE_M50_0160.jpg		no	3:16	3:21	195625	200625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:06		
+GvUqO_M50_0161.jpg		no	3:21	3:26	200625	205625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:07		
+GvUrY_M50_0162.jpg		no	3:26	3:31	205625	210625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:08		
+GvUuU_M50_0163.jpg		no	3:31	3:36	210625	215625	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:09		
+GvUvH_M50_0164.jpg		no	3:36	3:41	215625	220625	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:09		
+GvUxQ_M50_0167.jpg		no	3:41	3:46	220625	225625	5	Die Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:10		
+GvUzX_M50_0168.jpg		no	3:46	3:51	225625	230625	5	In der Kirchenburg in Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:11		
+GvViE_M50_0170.jpg		no	3:51	3:56	230625	235625	5	In Walldorf an der Werra bei Meiningen	Meiningen	Walldorf	14.4.26 (Di) 15:15		
+GzIaL_iPh16e_5357.jpg		no	3:56	4:01	235625	240625	5	Bei Reichenhausen in der Rhön	Erbenhausen	Reichenhausen	15.4.26 (Mi) 8:17		
+GzIlU_iPh16e_5358.jpg		no	4:01	4:06	240625	245625	5	Bei Reichenhausen in der Rhön	Erbenhausen	Reichenhausen	15.4.26 (Mi) 8:22		
+HbPdK_iPh16e_5360.jpg	x	no	4:06	4:11	245625	250625	5	Im Schwarzen Moor bei Frankenheim in der Rhön	Frankenheim	Birx	15.4.26 (Mi) 19:23		
+HbPgE_iPh16e_5362.jpg		no	4:11	4:16	250625	255625	5	Im Schwarzen Moor bei Frankenheim in der Rhön	Frankenheim	Birx	15.4.26 (Mi) 19:24		
+HbPyX_iPh16e_0093.mp4		yes	4:16	4:33	255625	273417	17792	Im Schwarzen Moor bei Frankenheim in der Rhön		0000:00:00 00:00:00			
+HbQaL_iPh16e_5364.jpg		no	4:33	4:38	273417	278417	5	Im Schwarzen Moor bei Frankenheim in der Rhön	Frankenheim	Birx	15.4.26 (Mi) 19:33		
+HeJoC_iPh16e_5366.jpg		no	4:38	4:43	278417	283417	5	Im Schwarzen Moor bei Frankenheim in der Rhön	Frankenheim	Birx	16.4.26 (Do) 8:58		
+HjUcR_iPh16e_5374.jpg	x	no	4:43	4:48	283417	288417	5	Bei Rotenburg an der Fulda nördlich von Bebra	Rotenburg an der Fulda	Erkshausen	17.4.26 (Fr) 11:22		
+HjUdT_iPh16e_0094.mp4		yes	4:48	5:04	288417	304292	15875	Bei Rotenburg an der Fulda nördlich von Bebra		0000:00:00 00:00:00			
+HjUgS_iPh16e_5375.jpg		no	5:04	5:09	304292	309292	5	Bei Rotenburg an der Fulda nördlich von Bebra	Rotenburg an der Fulda	Erkshausen	17.4.26 (Fr) 11:24		
+HkArI_iPh16e_5377.jpg		no	5:09	5:14	309292	314292	5	Bei Waldkappel zwischen Berbra und Eschwege	Waldkappel	Stolzhausen	17.4.26 (Fr) 12:36		
+HkCxP_iPh16e_5378.jpg		no	5:14	5:19	314292	319292	5	Bei Rotenburg an der Fulda nördlich von Bebra	Rotenburg an der Fulda	Dankerode	17.4.26 (Fr) 13:01		
+HkFvB_iPh16e_5380.jpg		no	5:19	5:24	319292	324292	5	Bei Waldkappel zwischen Berbra und Eschwege	Waldkappel	Stolzhausen	17.4.26 (Fr) 13:34		
+IdIiU_M50_0172.jpg	x	no	5:24	5:29	324292	329292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:48		
+IdIxF_M50_0181.jpg		no	5:29	5:34	329292	334292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:54		
+IdJcW_M50_0182.jpg		no	5:34	5:39	334292	339292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:57		
+IdJhB_M50_0187.jpg		no	5:39	5:44	339292	344292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:59		
+IdJhV_M50_0189.jpg		no	5:44	5:49	344292	349292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 10:59		
+IdJrE_iPh16e_5385.jpg		no	5:49	5:54	349292	354292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:03		
+IdKmC_M50_0203.jpg		no	5:54	5:59	354292	359292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:12		
+IdKpF_M50_0206.jpg		no	5:59	6:04	359292	364292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:14		
+IdKuX_iPh16e_5386.jpg		no	6:04	6:09	364292	369292	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:16		
+IdKvY_iPh16e_0096.mp4		yes	6:09	6:18	369292	377833	8542	Im Schloßpark von Herrenhausen in Hannover		0000:00:00 00:00:00			
+IdKzT_M50_0209.jpg		no	6:18	6:23	377833	382833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:18		
+IdLbJ_M50_0210.jpg		no	6:23	6:28	382833	387833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:19		
+IdLeX_M50_0212.jpg		no	6:28	6:33	387833	392833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:20		
+IdLjH_iPh16e_5387.jpg		no	6:33	6:38	392833	397833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:22		
+IdLkQ_M50_0219.jpg		no	6:38	6:43	397833	402833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:23		
+IdLvY_M50_0224.jpg		no	6:43	6:48	402833	407833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:28		
+IdMbN_iPh16e_0098.mp4		yes	6:48	7:01	407833	420833	13	Im Schloßpark von Herrenhausen in Hannover		0000:00:00 00:00:00			
+IdMlF_M50_0233.jpg		no	7:01	7:06	420833	425833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:34		
+IdNcH_M50_0240.jpg		no	7:06	7:11	425833	430833	5	Im Schloßpark von Herrenhausen in Hannover	Hannover	Herrenhausen	21.4.26 (Di) 11:42		
+IhVgM_iPh16e_5388.jpg	x	no	7:11	7:16	430833	435833	5	Spaziergang in Goldbeck westlich von Hameln	Rinteln	Goldbeck	22.4.26 (Mi) 8:45		
+IhXxQ_iPh16e_5390.jpg		no	7:16	7:21	435833	440833	5	Spaziergang in Goldbeck westlich von Hameln	Rinteln	Goldbeck	22.4.26 (Mi) 9:15		
+ImXlM_M50_0245.jpg	x	no	7:21	7:26	440833	445833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:35		
+ImXqO_M50_0248.jpg		no	7:26	7:31	445833	450833	5	Am Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:37		
+ImXvZ_M50_0249.jpg		no	7:31	7:36	450833	455833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:39		
+ImXxV_M50_0250.jpg		no	7:36	7:41	455833	460833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:40		
+ImXyR_M50_0251.jpg		no	7:41	7:46	460833	465833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:41		
+ImXzI_M50_0252.jpg		no	7:46	7:51	465833	470833	5	Schloß Brake bei Lemgo	Lemgo	Brake	23.4.26 (Do) 9:41		
+InFbZ_iPh16e_5394.jpg	x	no	7:51	7:56	470833	475833	5	Das Hermannsdenkmal im Teutoburger Wald	Detmold	Hiddesen	23.4.26 (Do) 11:01		
+InFkT_iPh16e_5397.jpg		no	7:56	8:01	475833	480833	5	Das Hermannsdenkmal im Teutoburger Wald	Detmold	Hiddesen	23.4.26 (Do) 11:05		
+InFmC_iPh16e_5399.jpg		no	8:01	8:06	480833	485833	5	Das Hermannsdenkmal im Teutoburger Wald	Detmold	Hiddesen	23.4.26 (Do) 11:05		
+InFtY_iPh16e_0100.mp4		yes	8:06	8:14	485833	494207	8374	Das Hermannsdenkmal im Teutoburger Wald		0000:00:00 00:00:00			
+IoYcF_iPh16e_0108.mp4		yes	8:14	8:31	494207	510541	16333	Windräder bei Atteln südlich von Paderborn		0000:00:00 00:00:00			
+JbDzV_iPh16e_5406.jpg	x	no	8:31	8:36	510541	515541	5	Morgenspaziergang am Rothaarkamm südwestlich von Winterberg	Schmallenberg	Jagdhaus	26.4.26 (So) 7:10		
+JbFuN_iPh16e_0110.mp4		yes	8:36	8:51	515541	531157	15617	Morgenspaziergang am Rothaarkamm südwestlich von Winterberg		0000:00:00 00:00:00			
+JbFyC_iPh16e_5408.jpg		no	8:51	8:56	531157	536157	5	Morgenspaziergang am Rothaarkamm südwestlich von Winterberg	Schmallenberg	Jagdhaus	26.4.26 (So) 7:31		
+JbGgS_iPh16e_5410.jpg		no	8:56	9:01	536157	541157	5	Morgenspaziergang am Rothaarkamm südwestlich von Winterberg	Schmallenberg	Jagdhaus	26.4.26 (So) 7:35		
+JdEvH_iPh16e_5414.jpg		no	9:01	9:06	541157	546157	5	Auf dem Heidkopf bei Hallenberg südlich von Winterberg	Hallenberg		26.4.26 (So) 17:05		
+JdEzV_iPh16e_5417.jpg		no	9:06	9:11	546157	551157	5	Auf dem Heidkopf bei Hallenberg südlich von Winterberg	Hallenberg		26.4.26 (So) 17:07		
+JgLeK_M50_0260.jpg	x	no	9:11	9:16	551157	556157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 8:55		
+JgLiS_M50_0266.jpg		no	9:16	9:21	556157	561157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 8:57		
+JgLpT_M50_0278.jpg		no	9:21	9:26	561157	566157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:00		
+JgLtK_M50_0291.jpg		no	9:26	9:31	566157	571157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:02		
+JgLtQ_M50_0293.jpg		no	9:31	9:36	571157	576157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:02		
+JgLvG_M50_0295.jpg		no	9:36	9:41	576157	581157	5	An der Freilichtbühne Hallenberg südlich von Winterberg	Hallenberg		27.4.26 (Mo) 9:03		
+JgVlV_iPh16e_5421.jpg	x	no	9:41	9:46	581157	586157	5	Am Kahlen Asten bei Winterberg	Winterberg	Kahler Asten	27.4.26 (Mo) 10:51		
+JgVwE_iPh16e_5422.jpg		no	9:46	9:51	586157	591157	5	Auf dem Kahlen Asten bei Winterberg	Winterberg	Kahler Asten	27.4.26 (Mo) 10:56		
+JgWnA_iPh16e_8240.jpg		no	9:51	9:56	591157	596157	5	Auf dem Kahlen Asten bei Winterberg	Winterberg	Kahler Asten	27.4.26 (Mo) 11:03		
+JgWtE_iPh16e_5426.jpg		no	9:56	10:01	596157	601157	5	Auf dem Kahlen Asten bei Winterberg	Winterberg	Kahler Asten	27.4.26 (Mo) 11:06		
+KjUzY_iPh16e_0113.mp4		yes	10:01	10:10	601157	610341	9183	Morgenspaziergang in Oberthulba westlich von Bad Kissingen		0000:00:00 00:00:00			
+KjVeV_iPh16e_5430.jpg	x	no	10:10	10:15	610341	615341	5	Morgenspaziergang in Oberthulba westlich von Bad Kissingen	Oberthulba		2.5.26 (Sa) 8:23		
+KjVlO_iPh16e_5431.jpg		no	10:15	10:20	615341	620341	5	Morgenspaziergang in Oberthulba westlich von Bad Kissingen	Oberthulba		2.5.26 (Sa) 8:26		
+KoSqD_iPh16e_5432.jpg	x	no	10:20	10:25	620341	625341	5	Am Gelben Berg südlich von Gunzenhausen	Sammenheim	Gelber Berg	3.5.26 (So) 8:19		
+KoStO_iPh16e_0114.mp4		yes	10:25	10:49	625341	648991	23.65	Am Gelben Berg südlich von Gunzenhausen		0000:00:00 00:00:00			
+KoSwT_iPh16e_5433.jpg		no	10:49	10:54	648991	653991	5	Am Gelben Berg südlich von Gunzenhausen	Sammenheim	Gelber Berg	3.5.26 (So) 8:22		
